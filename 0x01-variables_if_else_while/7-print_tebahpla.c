@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - prints alphabet in reverse order followed by a new line
- * Return: Always 0
+ * Return: Always 1
  */
 int main(void)
 {
